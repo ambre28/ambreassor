@@ -1,4 +1,5 @@
-# Ambre Assor
+# Ambre Assor 
+![Ma photo](../blob/main/Photo.jpg)
 ### Curriculum 
 
 You can use the [editor on GitHub](https://github.com/ambre28/ambreassor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
