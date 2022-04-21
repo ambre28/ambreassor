@@ -1,5 +1,5 @@
 # Ambre Assor 
-![Ma photo](../blob/main/Photo.JPG)
+![Ma photo](../blob/main/photo.JPG)
 
 ### Curriculum 
 
